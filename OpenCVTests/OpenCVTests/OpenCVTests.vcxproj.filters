@@ -1,0 +1,220 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="Resource Files\images">
+      <UniqueIdentifier>{47d83933-c723-4ba5-8e10-7ce6eafe6003}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Deprecated">
+      <UniqueIdentifier>{5a6b3da2-3ff2-4d90-a232-32ffc9648998}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Deprecated">
+      <UniqueIdentifier>{0da57b1f-1605-40dc-b3be-f33d0c6caed7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Falange">
+      <UniqueIdentifier>{04079c66-5ad6-47ff-b934-e8de0a54c902}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Falange">
+      <UniqueIdentifier>{39a3c373-f35a-4045-af2b-1de99671f8cd}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="Source Files\helloworld.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Source Files\preparaim.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Source Files\trickyLib.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Source Files\stddvim.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Source Files\segmentafranja.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Source Files\inserezeros.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Source Files\extraidirecional.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Source Files\orientfranja.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Source Files\ssamporientimg.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Source Files\num2strSpecial.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Source Files\normaliza.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Source Files\main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Source Files\findCenterROI.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Source Files\generateCenters.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Source Files\Deprecated\h12functions.cpp">
+      <Filter>Source Files\Deprecated</Filter>
+    </ClCompile>
+    <ClCompile Include="Source Files\Falange\clahe.cpp">
+      <Filter>Source Files\Falange</Filter>
+    </ClCompile>
+    <ClCompile Include="Source Files\Falange\falange.cpp">
+      <Filter>Source Files\Falange</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="Resource Files\images\01.bmp">
+      <Filter>Resource Files\images</Filter>
+    </Image>
+    <Image Include="Resource Files\images\02.bmp">
+      <Filter>Resource Files\images</Filter>
+    </Image>
+    <Image Include="Resource Files\images\03.bmp">
+      <Filter>Resource Files\images</Filter>
+    </Image>
+    <Image Include="Resource Files\images\04.bmp">
+      <Filter>Resource Files\images</Filter>
+    </Image>
+    <Image Include="Resource Files\images\05.bmp">
+      <Filter>Resource Files\images</Filter>
+    </Image>
+    <Image Include="Resource Files\images\06.bmp">
+      <Filter>Resource Files\images</Filter>
+    </Image>
+    <Image Include="Resource Files\images\07.bmp">
+      <Filter>Resource Files\images</Filter>
+    </Image>
+    <Image Include="Resource Files\images\08.bmp">
+      <Filter>Resource Files\images</Filter>
+    </Image>
+    <Image Include="Resource Files\images\09.bmp">
+      <Filter>Resource Files\images</Filter>
+    </Image>
+    <Image Include="Resource Files\images\10.bmp">
+      <Filter>Resource Files\images</Filter>
+    </Image>
+    <Image Include="Resource Files\images\11.bmp">
+      <Filter>Resource Files\images</Filter>
+    </Image>
+    <Image Include="Resource Files\images\12.bmp">
+      <Filter>Resource Files\images</Filter>
+    </Image>
+    <Image Include="Resource Files\images\13.bmp">
+      <Filter>Resource Files\images</Filter>
+    </Image>
+    <Image Include="Resource Files\images\14.bmp">
+      <Filter>Resource Files\images</Filter>
+    </Image>
+    <Image Include="Resource Files\images\15.bmp">
+      <Filter>Resource Files\images</Filter>
+    </Image>
+    <Image Include="Resource Files\images\16.bmp">
+      <Filter>Resource Files\images</Filter>
+    </Image>
+    <Image Include="Resource Files\images\17.bmp">
+      <Filter>Resource Files\images</Filter>
+    </Image>
+    <Image Include="Resource Files\images\18.bmp">
+      <Filter>Resource Files\images</Filter>
+    </Image>
+    <Image Include="Resource Files\images\19.bmp">
+      <Filter>Resource Files\images</Filter>
+    </Image>
+    <Image Include="Resource Files\images\20.bmp">
+      <Filter>Resource Files\images</Filter>
+    </Image>
+    <Image Include="Resource Files\images\21.bmp">
+      <Filter>Resource Files\images</Filter>
+    </Image>
+    <Image Include="Resource Files\images\22.bmp">
+      <Filter>Resource Files\images</Filter>
+    </Image>
+    <Image Include="Resource Files\images\23.bmp">
+      <Filter>Resource Files\images</Filter>
+    </Image>
+    <Image Include="Resource Files\images\24.bmp">
+      <Filter>Resource Files\images</Filter>
+    </Image>
+    <Image Include="Resource Files\images\25.bmp">
+      <Filter>Resource Files\images</Filter>
+    </Image>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Header Files\helloWorld.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Header Files\preparaim.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Header Files\trickyLib.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Header Files\stddvim.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Header Files\segmentafranja.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Header Files\inserezeros.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Header Files\extraidirecional.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Header Files\ssamporientimg.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Header Files\orientfranja.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Header Files\num2strSpecial.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Header Files\normaliza.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Header Files\findCenterROI.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Header Files\generateCenters.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Header Files\commonConstants.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Header Files\Deprecated\h12functions.hpp">
+      <Filter>Header Files\Deprecated</Filter>
+    </ClInclude>
+    <ClInclude Include="Header Files\Falange\falange.hpp">
+      <Filter>Header Files\Falange</Filter>
+    </ClInclude>
+    <ClInclude Include="Header Files\Falange\clahe.h">
+      <Filter>Header Files\Falange</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Source Files\Deprecated\main.cpp.removed">
+      <Filter>Source Files\Deprecated</Filter>
+    </None>
+  </ItemGroup>
+</Project>

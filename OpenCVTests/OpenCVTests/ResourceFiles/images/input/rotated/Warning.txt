@@ -1,0 +1,9 @@
+The 20 folders that mirror its sister folder ../salum have been removed.
+The reason is that the images are copyrighted.
+../../output/centers folder is empty for the same reason.
+
+Still, in ../salum the noisy reconstruction is left as there is no reverse-engineering process.
+Thus, no ethics comitee can claim the privacy of the original fingerprint donors had been violated.
+
+Only one sampe remains for ilustrative purposes.
+(Sample goes from 1_1_1_0.jpg to 1_1_1_5_0.jpg)

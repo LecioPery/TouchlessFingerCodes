@@ -1,0 +1,23 @@
+10417.7 False
+13084.5 False
+11934.2 False
+17082.9 False
+15366.5 False
+17673.3 False
+11650.4 False
+10323.8 False
+12394.8 False
+13907.8 False
+11614.1 False
+12646.8 False
+11486.4 False
+9121.9 False
+14753.6 False
+12563.3 False
+12008.4 False
+12041.7 False
+16268.4 False
+12382 False
+12611.1 False
+10821.6 False
+0

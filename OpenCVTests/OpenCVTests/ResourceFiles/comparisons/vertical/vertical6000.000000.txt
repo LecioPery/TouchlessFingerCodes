@@ -1,0 +1,25 @@
+10336.4 False
+8182.75 False
+6610.46 False
+6750.54 False
+10183.4 False
+8439.52 False
+6608.89 False
+7169.84 False
+5575.83 True
+6126.37 False
+11485.9 False
+10622.5 False
+5961.55 True
+3957.81 True
+4417.96 True
+8275.21 False
+9815.6 False
+6054.82 False
+8129.39 False
+8176.54 False
+5745.39 True
+6527.98 False
+9670.18 False
+8394.6 False
+5

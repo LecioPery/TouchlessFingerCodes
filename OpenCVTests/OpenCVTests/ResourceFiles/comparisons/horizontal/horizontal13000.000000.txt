@@ -1,0 +1,23 @@
+10417.7 True
+13084.5 False
+11934.2 True
+17082.9 False
+15366.5 False
+17673.3 False
+11650.4 True
+10323.8 True
+12394.8 True
+13907.8 False
+11614.1 True
+12646.8 True
+11486.4 True
+9121.9 True
+14753.6 False
+12563.3 True
+12008.4 True
+12041.7 True
+16268.4 False
+12382 True
+12611.1 True
+10821.6 True
+15

@@ -1,0 +1,5 @@
+The 20 folders that mirror its sister folder ../fingerCodes have been removed.
+The reason is that the images are copyrighted.
+../../input/rotated folder is empty for the same reason.
+
+Only one sampe remains for ilustrative purposes.
